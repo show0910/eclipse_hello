@@ -8,6 +8,7 @@ public class PushPrint {
 		System.out.println("WOrld with Miku");
 		System.out.println("AAABBB");
 		System.out.println("Modify Remote Repository");
+		System.out.println("Mccccc");
 	}
 
 }
